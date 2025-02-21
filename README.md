@@ -14,7 +14,38 @@ A simple and responsive Password Generator built with Next.js (App Router), Type
 - User-friendly UI with Tailwind CSS
 
 ## Installation and Setup
-Install Dependencies
+
+Follow these steps to set up the project on your local machine.
+
+### Clone the Repository
+```sh
+git clone https://github.com/YOUR-USERNAME/password-generator.git
+cd password-generator
+```
+
+### Install Dependencies
 ```sh
 npm install
+```
+
+### Run the Development Server
+```sh
 npm run dev
+```
+The application will be available at:
+```
+http://localhost:3000
+```
+
+### Build for Production
+```sh
+npm run build
+```
+
+### Start the Production Server
+```sh
+npm run start
+```
+
+
+
