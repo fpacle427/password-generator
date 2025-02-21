@@ -15,6 +15,7 @@ A simple and responsive Password Generator built with Next.js (App Router), Type
 
 ## Installation and Setup
 Install Dependencies
+```sh
 npm install
 
 Run the development server
